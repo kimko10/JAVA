@@ -5,7 +5,7 @@ package thread;
 
 /**
  * @author hj
- *
+ * Runnable를 사용하여 iv값을 공유 하는 방법
  */
 class ThreadEx21 {
 

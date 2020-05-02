@@ -1,5 +1,6 @@
 package thread;
 
+// Thread 상속으로 Data를 공유 하는 방법
 public class ThreadEx22 {
 
 	public static void main(String[] args) {
